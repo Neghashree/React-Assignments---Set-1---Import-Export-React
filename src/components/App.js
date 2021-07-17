@@ -4,7 +4,7 @@ import Heading from "./Heading.js"
 const App = () => {
   return (
     <div id="main">
-      <h1 />
+      <Heading />
       < />
       < />
       < />
